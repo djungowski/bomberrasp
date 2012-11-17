@@ -13,7 +13,7 @@ class Player:
 		self.load_image()
 
 	def load_image(self):
-		monkey_head_file_name = os.path.join("data", "monkey_head.png")
+		monkey_head_file_name = os.path.join("gfx", "player1.png")
 		self.__surface = pygame.image.load(monkey_head_file_name)
 		self.__size = self.__surface.get_size()
 
