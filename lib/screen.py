@@ -26,26 +26,13 @@ class Screen:
 
 	def set_field(self, field):
 		self.__field = field
-		self.__field.render(self)
+		self.__field.render()
 
 	def get_size(self):
 		return self.__size
 
-	def add_player(self, player):
-		self.__screen.blit(player.get_surface(), player.get_position())
-		pygame.display.update()
-
-	def add_bomb(self, bomb, position):
-		self.__screen.blit(bomb.get_surface(), position)
-
-	def move_player(self, player, new_position):
-		player_size = player.get_size()
-		old_position = player.get_position()
-		pygame.draw.rect(self.__screen, self.__background_color, (old_position[0], old_position[1], player_size[0], player_size[1]))
-		self.__screen.blit(player.get_surface(), new_position)
-
-		# Not needed when HWSURFACE is true :-)
-		pygame.display.update()
-
 	def get_screen(self):
 		return self.__screen
+
+	def get_background_color(self):
+		return self.__background_color

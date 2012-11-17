@@ -64,7 +64,7 @@ class Movement:
 
 	def move_player(self, player, new_position, direction):
 		new_position = self.__fix_position(player, new_position, direction)
-		self.__screen.move_player(player, new_position)
+		self.__field.move_player(player, new_position)
 		player.set_position(new_position)
 
 	def set_field(self, field):

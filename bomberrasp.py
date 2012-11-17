@@ -24,13 +24,13 @@ pygame.key.set_repeat(1, 50)
 screen = lib.screen.Screen()
 screen.logging = logging
 
-field = lib.field.Field()
+field = lib.field.Field(screen)
 field.logging = logging
 screen.set_field(field)
 brick_size = field.get_brick_size()
 
 player1 = lib.player.Player([brick_size[0], brick_size[1]])
-screen.add_player(player1)
+field.add_player(player1)
 
 movement = lib.movement.Movement(screen)
 movement.logging = logging
@@ -76,7 +76,7 @@ def input(events):
 				movement.move_player(player1, new_position, "right")
 
 			elif event.key == pygame.K_SPACE:
-				screen.add_bomb(bomb, current_position)
+				field.add_bomb(bomb, current_position)
 
 			elif event.key == pygame.K_c and pygame.key.get_mods() & KMOD_CTRL:
 				sys.exit(0)
