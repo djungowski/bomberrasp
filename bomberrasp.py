@@ -21,14 +21,19 @@ pygame.init()
 pygame.key.set_repeat(1, 50)
 
 screen = lib.screen.Screen()
+screen.logging = logging
+
 field = lib.field.Field()
-field.set_logging(logging)
+field.logging = logging
 screen.set_field(field)
 brick_size = field.get_brick_size()
 
 player1 = lib.player.Player([brick_size[0], brick_size[1]])
 screen.add_player(player1)
+
 movement = lib.movement.Movement(screen)
+movement.logging = logging
+movement.set_field(field)
 
 def input(events):
 	for event in events:
@@ -50,22 +55,22 @@ def input(events):
 			if event.key == pygame.K_UP:
 				# Only move monkey up if this doesn't mean that the monkey leaves the screen
 				new_position[1] = old_position[1] - player1.movement_step
-				movement.move_player(player1, new_position)
+				movement.move_player(player1, new_position, "up")
 
 			elif event.key == pygame.K_DOWN:
 				# only move monkey if this doesn't mean that the monkey leaves the screen
 				new_position[1] = old_position[1] + player1.movement_step
-				movement.move_player(player1, new_position)
+				movement.move_player(player1, new_position, "down")
 
 			elif event.key == pygame.K_LEFT:
 				# only move monkey left, if it doesn't leave the screen
 				new_position[0] = old_position[0] - player1.movement_step
-				movement.move_player(player1, new_position)
+				movement.move_player(player1, new_position, "left")
 
 			elif event.key == pygame.K_RIGHT:
 				# if moving right would mean leaving the screen, set position to maximum possible
 				new_position[0] = old_position[0] + player1.movement_step
-				movement.move_player(player1, new_position)
+				movement.move_player(player1, new_position, "right")
 
 			elif event.key == pygame.K_c and pygame.key.get_mods() & KMOD_CTRL:
 				sys.exit(0)
