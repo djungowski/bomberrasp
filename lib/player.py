@@ -6,7 +6,7 @@ class Player:
 	__position = [0, 0]
 	__size = None
 	__surface = None
-	movement_step = 10
+	movement_step = 15
 
 	def __init__(self, position):
 		self.__position = position
