@@ -7,8 +7,15 @@ import lib.player
 import lib.screen
 import lib.movement
 
+# Set up logger
+if "--debug" in sys.argv or "-d" in sys.argv:
+	loglevel = logging.DEBUG
+else:
+	loglevel = logging.CRITICAL
+
+logging.basicConfig(filename="debug.log", level=loglevel)
+
 pygame.init()
-logging.basicConfig(filename="debug.log", level=logging.CRITICAL)
 
 screen = lib.screen.Screen()
 player1 = lib.player.Player([0, 0])
