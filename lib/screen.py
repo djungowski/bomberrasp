@@ -6,6 +6,7 @@ class Screen:
 	__size = (1280, 720)
 	__background_color = (255, 255, 255)
 	__screen = None
+	__field = None
 
 	def __init__(self):
 		self.__init_maximum_size()
@@ -22,6 +23,9 @@ class Screen:
 	def __init_maximum_size(self):
 		display_info = pygame.display.Info()
 		self.__size = (display_info.current_w, display_info.current_h)
+
+	def set_field(self, field):
+		self.__field = field
 
 	def get_size(self):
 		return self.__size

@@ -6,6 +6,7 @@ import pygame, os, sys, logging
 import lib.player
 import lib.screen
 import lib.movement
+import lib.field
 
 # Set up logger
 if "--debug" in sys.argv or "-d" in sys.argv:
@@ -16,8 +17,12 @@ else:
 logging.basicConfig(filename="debug.log", level=loglevel)
 
 pygame.init()
+# key-repeat is when keys are kept pushed (important for movement)
+pygame.key.set_repeat(1, 50)
 
 screen = lib.screen.Screen()
+field = lib.field.Field()
+screen.set_field(field)
 player1 = lib.player.Player([0, 0])
 screen.add_player(player1)
 movement = lib.movement.Movement(screen)
@@ -25,6 +30,10 @@ movement = lib.movement.Movement(screen)
 def input(events):
 	for event in events:
 		logging.debug(event)
+
+		# Do nothing when the key is released
+		if (event.type == pygame.KEYUP):
+			return
 
 		if event.type == pygame.QUIT:
 			sys.exit(0)
