@@ -8,7 +8,7 @@ import lib.screen
 import lib.movement
 
 pygame.init()
-logging.basicConfig(filename="debug.log", level=logging.DEBUG)
+logging.basicConfig(filename="debug.log", level=logging.CRITICAL)
 
 screen = lib.screen.Screen()
 player1 = lib.player.Player([0, 0])
