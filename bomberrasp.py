@@ -22,8 +22,11 @@ pygame.key.set_repeat(1, 50)
 
 screen = lib.screen.Screen()
 field = lib.field.Field()
+field.set_logging(logging)
 screen.set_field(field)
-player1 = lib.player.Player([0, 0])
+brick_size = field.get_brick_size()
+
+player1 = lib.player.Player([brick_size[0], brick_size[1]])
 screen.add_player(player1)
 movement = lib.movement.Movement(screen)
 

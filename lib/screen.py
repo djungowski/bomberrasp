@@ -26,6 +26,7 @@ class Screen:
 
 	def set_field(self, field):
 		self.__field = field
+		self.__field.render(self)
 
 	def get_size(self):
 		return self.__size
@@ -42,3 +43,6 @@ class Screen:
 
 		# Not needed when HWSURFACE is true :-)
 #		pygame.display.update()
+
+	def get_screen(self):
+		return self.__screen
