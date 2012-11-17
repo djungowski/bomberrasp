@@ -35,6 +35,9 @@ class Screen:
 		self.__screen.blit(player.get_surface(), player.get_position())
 		pygame.display.update()
 
+	def add_bomb(self, bomb, position):
+		self.__screen.blit(bomb.get_surface(), position)
+
 	def move_player(self, player, new_position):
 		player_size = player.get_size()
 		old_position = player.get_position()
@@ -42,7 +45,7 @@ class Screen:
 		self.__screen.blit(player.get_surface(), new_position)
 
 		# Not needed when HWSURFACE is true :-)
-#		pygame.display.update()
+		pygame.display.update()
 
 	def get_screen(self):
 		return self.__screen
