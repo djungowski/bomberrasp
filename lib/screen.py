@@ -35,13 +35,6 @@ class Screen:
 		old_position = player.get_position()
 		pygame.draw.rect(self.__screen, self.__background_color, (old_position[0], old_position[1], player_size[0], player_size[1]))
 		self.__screen.blit(player.get_surface(), new_position)
-		pygame.display.update()
 
-		return
-
-		for x in range(2):
-			pygame.draw.rect(screen, background_color, (old_position[0], old_position[1], monkey_size[0], monkey_size[1]))
-			position = position.move(2, 0)
-			screen.blit(monkey_surface, new_position)
-			pygame.display.update()
-			pygame.time.delay(10)
+		# Not needed when HWSURFACE is true :-)
+#		pygame.display.update()
