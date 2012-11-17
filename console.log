@@ -8615,3 +8615,509 @@ DEBUG:root:<Event(2-KeyDown {'scancode': 29, 'key': 306, 'unicode': u'', 'mod': 
 DEBUG:root:<Event(2-KeyDown {'scancode': 46, 'key': 99, 'unicode': u'\x03', 'mod': 64})>
 DEBUG:root:<Event(2-KeyDown {'scancode': 29, 'key': 306, 'unicode': u'', 'mod': 0})>
 DEBUG:root:<Event(2-KeyDown {'scancode': 46, 'key': 99, 'unicode': u'\x03', 'mod': 64})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 29, 'key': 306, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 46, 'key': 99, 'unicode': u'\x03', 'mod': 64})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 29, 'key': 306, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 46, 'key': 99, 'unicode': u'\x03', 'mod': 64})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 29, 'key': 306, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 46, 'key': 99, 'unicode': u'\x03', 'mod': 64})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 29, 'key': 306, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 46, 'key': 99, 'unicode': u'\x03', 'mod': 64})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 29, 'key': 306, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 46, 'key': 99, 'unicode': u'\x03', 'mod': 64})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 29, 'key': 306, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 46, 'key': 99, 'unicode': u'\x03', 'mod': 64})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 29, 'key': 306, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 46, 'key': 99, 'unicode': u'\x03', 'mod': 64})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 29, 'key': 306, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 46, 'key': 99, 'unicode': u'\x03', 'mod': 64})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 29, 'key': 306, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 46, 'key': 99, 'unicode': u'\x03', 'mod': 64})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 29, 'key': 306, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 46, 'key': 99, 'unicode': u'\x03', 'mod': 64})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 105, 'key': 276, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 105, 'key': 276, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 106, 'key': 275, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 106, 'key': 275, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 108, 'key': 274, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(3-KeyUp {'scancode': 108, 'key': 274, 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 29, 'key': 306, 'unicode': u'', 'mod': 0})>
+DEBUG:root:<Event(2-KeyDown {'scancode': 46, 'key': 99, 'unicode': u'\x03', 'mod': 64})>

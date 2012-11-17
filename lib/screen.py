@@ -9,11 +9,15 @@ class Screen:
 
 	def __init__(self):
 		self.__init_maximum_size()
-		self.__window = pygame.display.set_mode(self.__size, pygame.FULLSCREEN | pygame.NOFRAME)
+		self.__window = pygame.display.set_mode(self.__size, pygame.FULLSCREEN | pygame.HWSURFACE)
 		pygame.display.set_caption("Monkey Fever")
 		pygame.mouse.set_visible(False)
 		self.__screen = pygame.display.get_surface()
-		self.__screen.fill(self.__background_color)
+		background = pygame.Surface(self.__size)
+		background = background.convert()
+		background.fill(self.__background_color)
+		self.__screen.blit(background, (0, 0))
+		pygame.display.flip()
 
 	def __init_maximum_size(self):
 		display_info = pygame.display.Info()
@@ -24,7 +28,7 @@ class Screen:
 
 	def add_player(self, player):
 		self.__screen.blit(player.get_surface(), player.get_position())
-		pygame.display.flip()
+		pygame.display.update()
 
 	def move_player(self, player, new_position):
 		player_size = player.get_size()

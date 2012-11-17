@@ -38,8 +38,8 @@ class Movement:
 
 		current_position = list(old_position)
 
-		for x in range(self.__frames):
-			current_position[0] = current_position[0] + movement_x_step
-			current_position[1] = current_position[1] + movement_y_step
-			self.__screen.move_player(player, current_position)
-		player.set_position(current_position)
+		#for x in range(self.__frames):
+			#current_position[0] = current_position[0] + movement_x_step
+			#current_position[1] = current_position[1] + movement_y_step
+		self.__screen.move_player(player, new_position)
+		player.set_position(new_position)
